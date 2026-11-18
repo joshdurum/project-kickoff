@@ -1,0 +1,12 @@
+{
+  "skill": "project-kickoff",
+  "should_trigger": [
+    "I want to build a new ADHD phone capture app with research, kill criteria, MVP v0.1 slicing, and persistent CLAUDE.md/decisions.md files.",
+    "Before writing code for this multi-file personal CRM, research existing tools, propose 3 improvements per feature, and plan 2-3 feature batches.",
+    "Set up project planning docs (research.md, decisions.md, plan.md, AGENTS.md) with an About Me section before starting."
+  ],
+  "should_not_trigger": [
+    "Fix a broken import on line 4 of server.py.",
+    "Run python3 -m unittest on tests/test_math.py."
+  ]
+}
